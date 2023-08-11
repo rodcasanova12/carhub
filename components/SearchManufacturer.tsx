@@ -2,7 +2,7 @@
 
 
 import { Combobox, Transition } from '@headlessui/react'
-import { SearchManufacturerProps } from '@/types'
+import { SearchManufacturerProps } from '@/types';
 import { manufacturers } from '@/constants';
 import React from 'react'
 import Image from 'next/image';
