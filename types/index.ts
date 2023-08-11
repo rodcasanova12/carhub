@@ -52,7 +52,7 @@ export interface OptionProps {
   value: string;
 }
 
-export interface CustomFilterProps {
+export interface customFilterProps {
   title: string;
   options: OptionProps[];
 }
